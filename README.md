@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Web Developer
 -----------------------
 
-2 yrs+ experienence in Html, Css (tailwind, Sass), Javascript(React, Node, Svelte, Vue), Golang (gin,swagger), Docker.
+4 yrs+ experienence in Html, Css (tailwind, Sass), Javascript(React, Node, Svelte, Vue), Golang (gin,swagger), Docker.
 
 * 🌍  I'm based in Nigeria, Lagos.
 * ✉️  You can contact me at [eiheanacho52@gmail.com](mailto:eiheanacho52@gmail.com)
